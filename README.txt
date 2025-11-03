@@ -1,0 +1,1 @@
+Upload this folder to GitHub, go to Actions -> Run workflow to get your APK.
